@@ -20,6 +20,11 @@ Please do not edit, change, distort, or reconfigure the OskarsMC Logo
        <td>gradient-pink</td>
        <td><a href="logo/png/oskarsmc-variant-gradient-pink.png"><img src="logo/png/oskarsmc-variant-gradient-pink.png"></a></td>
      </tr>
+    <tr>
+       <td>OskarsMC</td>
+       <td>gradient-pink-transparent</td>
+       <td><a href="logo/png/oskarsmc-variant-gradient-pink-transparent.png"><img src="logo/png/oskarsmc-variant-gradient-pink-transparent.png"></a></td>
+     </tr>
      <tr>
        <td>OskarsMC</td>
        <td>black</td>
